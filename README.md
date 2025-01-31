@@ -1,0 +1,2 @@
+# Practice
+my first approch 
